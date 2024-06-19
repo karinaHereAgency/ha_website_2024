@@ -1,4 +1,5 @@
-$( document ).ready(function() {
+document.addEventListener("DOMContentLoaded", function() {
+
     // Get All Videos
     const videos = document.querySelectorAll(" .hover_video_wrapper .video");
     
